@@ -1,0 +1,4 @@
+rust_find/target
+**/*.rs.bk
+rust_find/Cargo.lock
+testdir
